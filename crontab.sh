@@ -2,7 +2,6 @@
 # author wangyingbo
 
 echo "--------current path:-------"
-cd /root/Desktop/Projects/yb-auto-green
 echo $PWD
 
 git pull --rebase
