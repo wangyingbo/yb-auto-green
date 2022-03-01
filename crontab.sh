@@ -2,8 +2,8 @@
 # author wangyingbo
 
 echo "--------current path:-------"
+cd /root/Desktop/Projects/yb-auto-green
 echo $PWD
-cd $PWD
 
 git pull --rebase
 git commit --allow-empty -m "a commit a day keeps your girlfriend away"
